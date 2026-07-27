@@ -105,7 +105,7 @@ Academic Manuscript Data Streams / Domain Queries
 
 ### 1. Build Local Workspace Target Project Directory
 ```bash
-git clone [https://github.com/yourusername/Research_Paper_Assistant.git](https://github.com/yourusername/Research_Paper_Assistant.git)
+git clone [https://github.com/divya-09nimbalkar/Research_Paper_Assistant.git](https://github.com/divya-09nimbalkar/Research_Paper_Assistant.git)
 cd Research_Paper_Assistant
 python -m venv venv
 source venv/bin/activate # Windows Terminal: .\venv\Scripts\activate
