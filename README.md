@@ -33,7 +33,7 @@ The **Research Paper Assistant** system helps researchers bypass manual literatu
 ##  System Architecture
 
 
-```
+
 
 Academic Manuscript Data Streams / Domain Queries
 │
