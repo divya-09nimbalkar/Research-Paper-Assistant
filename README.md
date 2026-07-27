@@ -1,6 +1,6 @@
 
 ```markdown
-# 📄 Research Paper Assistant
+#  Research Paper Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5--flash-blueviolet.svg)](https://aistudio.google.com/)
@@ -8,11 +8,11 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)]()
 
-> 🚀 An interactive academic research compilation application combining local **FAISS dense abstract vectors** and **Google Gemini 2.5-Flash JSON parsing modes** to produce targeted peer-review critiques, cross-paper thematic synthesis reports, and clear citation maps.
+>  An interactive academic research compilation application combining local FAISS dense abstract vectors and Google Gemini 2.5-Flash JSON parsing modes to produce targeted peer-review critiques, cross-paper thematic synthesis reports, and clear citation maps.
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
 - [Key Features](#key-features)
@@ -24,13 +24,13 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 The **Research Paper Assistant** system helps researchers bypass manual literature matrix aggregation loops. By extracting structural segments from indexed manuscripts, it creates semantic representations using sentence embedding modules, performs lookups against a local FAISS store, and uses large language models to construct holistic multi-paper surveys automatically.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 
 ```
@@ -67,7 +67,7 @@ Academic Manuscript Data Streams / Domain Queries
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Grounded Academic RAG System:** Queries local research files using a high-speed FAISS inner-product index framework, reducing hallucination tendencies during synthesis reviews.
 * **JSON-Forced Review Compiler:** Leverages Gemini `response_mime_type` mechanics to aggregate text sources into verified thematic maps and matrix sheets without data truncation.
@@ -77,7 +77,7 @@ Academic Manuscript Data Streams / Domain Queries
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **AI Processing Engine:** Google Gemini 2.5-Flash (`google-generativeai`)
 * **Vector Document Store Index:** Facebook AI Similarity Search (`faiss-cpu`)
@@ -87,21 +87,21 @@ Academic Manuscript Data Streams / Domain Queries
 
 ---
 
-## 📊 Jupyter Cell Sequence Blueprint
+##  Jupyter Cell Sequence Blueprint
 
 | Cell # | Type | Target Context Module | Technical Core Purpose |
 | :--- | :--- | :--- | :--- |
-| **Cell 1** | 📝 Markdown | **Documentation Cover** | System summary badges, features indices, and blueprint flow maps. |
-| **Cell 2** | 💻 Code | **Package Downloads** | Installs AI libraries, FAISS layers, and document data infrastructure tools. |
-| **Cell 3** | 💻 Code | **Global Initializations** | Standard imports, data classes configuration blueprints, and API settings. |
-| **Cell 4** | 💻 Code | **Academic Vector store** | Implements `AcademicRAGSystem` parsing semantic values across FAISS indexes. |
-| **Cell 5** | 💻 Code | **Research Assistant Agent** | Drives `ResearchPaperAssistant` handling reviews synthesis and peer critiques. |
-| **Cell 6** | 💻 Code | **Diagnostics Diagnostics** | Validates internal operations via safe try-except boundaries to skip endpoint quota caps. |
-| **Cell 7** | 💻 Code | **Gradio App UI Layout** | Launches the multi-tab interactive academic platform dashboard right inside your notebook browser session. |
+| **Cell 1** |  Markdown | **Documentation Cover** | System summary badges, features indices, and blueprint flow maps. |
+| **Cell 2** |  Code | **Package Downloads** | Installs AI libraries, FAISS layers, and document data infrastructure tools. |
+| **Cell 3** |  Code | **Global Initializations** | Standard imports, data classes configuration blueprints, and API settings. |
+| **Cell 4** |  Code | **Academic Vector store** | Implements `AcademicRAGSystem` parsing semantic values across FAISS indexes. |
+| **Cell 5** |  Code | **Research Assistant Agent** | Drives `ResearchPaperAssistant` handling reviews synthesis and peer critiques. |
+| **Cell 6** |  Code | **Diagnostics Diagnostics** | Validates internal operations via safe try-except boundaries to skip endpoint quota caps. |
+| **Cell 7** |  Code | **Gradio App UI Layout** | Launches the multi-tab interactive academic platform dashboard right inside your notebook browser session. |
 
 ---
 
-## ⚙️ Installation & Environment Setup
+## Installaion & Environment Setup
 
 ### 1. Build Local Workspace Target Project Directory
 ```bash
@@ -130,7 +130,7 @@ os.environ["GEMINI_API_KEY"] = "AIzaSyYourSecretKeyStringHere"
 
 ---
 
-## 📁 Project Directory Architecture
+##  Project Directory Architecture
 
 ```text
 Research_Paper_Assistant/
@@ -145,7 +145,7 @@ Research_Paper_Assistant/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Divya** — AI/ML Developer |
 ```
