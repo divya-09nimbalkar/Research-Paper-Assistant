@@ -1,0 +1,15 @@
+# ── Core Generative AI System Layer ────────────────────────
+google-generativeai>=0.8.0
+
+# ── Dense Phrase Embedding & Vector Sizing stores ──────────
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# ── Array Mappings & Data Plumbers ─────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+pdfplumber>=0.11.0
+
+# ── Graphical Visualizers & UI Framework Containers ─────────
+rich>=13.7.0
+gradio>=6.0.0
